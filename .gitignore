@@ -3,3 +3,4 @@ embeddings
 model/__pycache__
 utils/__pycache__
 release1.pt
+OmegaFold
